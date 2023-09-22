@@ -1,4 +1,4 @@
-let score = "hitesh"
+ /* let score = "hitesh"
 
 //console.log(typeof score);
 //console.log(typeof(score));
@@ -26,5 +26,8 @@ let someNumber = 33
 let stringNumber = String(someNumber)
 // console.log(stringNumber);
 // console.log(typeof stringNumber);
-
-
+ */
+ //operations
+let value = 3
+let negvalue = -4
+console.log(negvalue)
