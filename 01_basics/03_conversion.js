@@ -31,3 +31,12 @@ let stringNumber = String(someNumber)
 let value = 3
 let negvalue = -4
 console.log(negvalue)
+
+//adding string
+let str1 = "Kunal"
+let str2 = " Choudhary"
+
+let str3 = str1 + str2
+console.log(str3);
+
+
